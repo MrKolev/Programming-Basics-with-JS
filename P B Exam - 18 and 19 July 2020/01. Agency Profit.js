@@ -13,7 +13,6 @@ function agencyProfit(input) {
     const totalProfit = totalTiket * 0.20;
     console.log(`The profit of your agency from ${name} tickets is ${totalProfit.toFixed(2)} lv.`);
 
-
 }
 agencyProfit(["WizzAir", "15", "5", "120", "40"])
 
